@@ -9,5 +9,6 @@ def hello_world():
     return 'Hello, KubeRocketCI!!'
 
 
+
 if __name__ == '__main__':
     app.run()
